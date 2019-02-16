@@ -1,0 +1,299 @@
+ {
+            "id": 21,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/21/",
+            "name": "Skank Fest",
+            "date": "2016-10-02",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 2,
+            "venue": {
+                "id": 2,
+                "url": "http://slippers.ixmm.net/api/venues/2/",
+                "name": "Denny's",
+                "slug": "dennys",
+                "about": "Denny's is the premier concert hall in Whoopie, NC"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/21/slots/"
+        },
+        {
+            "id": 20,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/20/",
+            "name": "Skank Fest",
+            "date": "2016-10-02",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 2,
+            "venue": {
+                "id": 2,
+                "url": "http://slippers.ixmm.net/api/venues/2/",
+                "name": "Denny's",
+                "slug": "dennys",
+                "about": "Denny's is the premier concert hall in Whoopie, NC"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/20/slots/"
+        },
+        {
+            "id": 19,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/19/",
+            "name": "Showing Off My Fun!",
+            "date": "2016-08-16",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 3,
+            "venue": {
+                "id": 3,
+                "url": "http://slippers.ixmm.net/api/venues/3/",
+                "name": "The Market",
+                "slug": "themarket",
+                "about": "Shopping for a good time, come on out here!"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/19/slots/"
+        },
+        {
+            "id": 14,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/14/",
+            "name": "Momma Knows Best",
+            "date": "2016-09-25",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 2,
+            "venue": {
+                "id": 2,
+                "url": "http://slippers.ixmm.net/api/venues/2/",
+                "name": "Denny's",
+                "slug": "dennys",
+                "about": "Denny's is the premier concert hall in Whoopie, NC"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/14/slots/"
+        },
+        {
+            "id": 13,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/13/",
+            "name": "Comedy Songwriter Night",
+            "date": "2016-06-02",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 3,
+            "venue": {
+                "id": 3,
+                "url": "http://slippers.ixmm.net/api/venues/3/",
+                "name": "The Market",
+                "slug": "themarket",
+                "about": "Shopping for a good time, come on out here!"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/13/slots/"
+        },
+        {
+            "id": 12,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/12/",
+            "name": "Xerxes World Tour",
+            "date": "2016-06-02",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 1,
+            "venue": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/venues/1/",
+                "name": "Mary Poppins Parlor",
+                "slug": "poppinparlor",
+                "about": "Poppin out the music since 1964"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/12/slots/"
+        },
+        {
+            "id": 11,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/11/",
+            "name": "Micromania Presents",
+            "date": "2016-06-02",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 2,
+            "venue": {
+                "id": 2,
+                "url": "http://slippers.ixmm.net/api/venues/2/",
+                "name": "Denny's",
+                "slug": "dennys",
+                "about": "Denny's is the premier concert hall in Whoopie, NC"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/11/slots/"
+        },
+        {
+            "id": 10,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/10/",
+            "name": "Party in July",
+            "date": "2016-07-16",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 2,
+            "venue": {
+                "id": 2,
+                "url": "http://slippers.ixmm.net/api/venues/2/",
+                "name": "Denny's",
+                "slug": "dennys",
+                "about": "Denny's is the premier concert hall in Whoopie, NC"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/10/slots/"
+        },
+        {
+            "id": 9,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/9/",
+            "name": "Poser Night",
+            "date": "2016-06-24",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 3,
+            "venue": {
+                "id": 3,
+                "url": "http://slippers.ixmm.net/api/venues/3/",
+                "name": "The Market",
+                "slug": "themarket",
+                "about": "Shopping for a good time, come on out here!"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/9/slots/"
+        },
+        {
+            "id": 8,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/8/",
+            "name": "Some Random Event",
+            "date": "2016-06-21",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 1,
+            "venue": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/venues/1/",
+                "name": "Mary Poppins Parlor",
+                "slug": "poppinparlor",
+                "about": "Poppin out the music since 1964"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/8/slots/"
+        },
+        {
+            "id": 7,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/7/",
+            "name": "Jack and Jill Presents",
+            "date": "2016-06-17",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 2,
+            "venue": {
+                "id": 2,
+                "url": "http://slippers.ixmm.net/api/venues/2/",
+                "name": "Denny's",
+                "slug": "dennys",
+                "about": "Denny's is the premier concert hall in Whoopie, NC"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/7/slots/"
+        },
+        {
+            "id": 2,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/2/",
+            "name": "Dollar Day at Denny's",
+            "date": "2016-06-30",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 2,
+            "venue": {
+                "id": 2,
+                "url": "http://slippers.ixmm.net/api/venues/2/",
+                "name": "Denny's",
+                "slug": "dennys",
+                "about": "Denny's is the premier concert hall in Whoopie, NC"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/2/slots/"
+        },
+        {
+            "id": 1,
+            "url": "http://slippers.ixmm.net/api/buyers/1/events/1/",
+            "name": "Feel the Flow Night",
+            "date": "2016-06-27",
+            "buyer": {
+                "id": 1,
+                "url": "http://slippers.ixmm.net/api/buyers/1/",
+                "name": "Henry Fored",
+                "slug": "hford",
+                "type": "promoter",
+                "type_display": "Promoter"
+            },
+            "venue_id": 2,
+            "venue": {
+                "id": 2,
+                "url": "http://slippers.ixmm.net/api/venues/2/",
+                "name": "Denny's",
+                "slug": "dennys",
+                "about": "Denny's is the premier concert hall in Whoopie, NC"
+            },
+            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/1/slots/"
+        }
