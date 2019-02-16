@@ -1,27 +1,6 @@
 
-        {
-            "id": 7,
-            "url": "http://slippers.ixmm.net/api/buyers/1/events/7/",
-            "name": "Jack and Jill Presents",
-            "date": "2016-06-17",
-            "buyer": {
-                "id": 1,
-                "url": "http://slippers.ixmm.net/api/buyers/1/",
-                "name": "Henry Fored",
-                "slug": "hford",
-                "type": "promoter",
-                "type_display": "Promoter"
-            },
-            "venue_id": 2,
-            "venue": {
-                "id": 2,
-                "url": "http://slippers.ixmm.net/api/venues/2/",
-                "name": "Denny's",
-                "slug": "dennys",
-                "about": "Denny's is the premier concert hall in Whoopie, NC"
-            },
-            "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/7/slots/"
-        },
+[
+               
         {
             "id": 2,
             "url": "http://slippers.ixmm.net/api/buyers/1/events/2/",
@@ -68,3 +47,4 @@
             },
             "slots_url": "http://slippers.ixmm.net/api/buyers/1/events/1/slots/"
         }
+]
